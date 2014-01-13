@@ -1,0 +1,12 @@
+{
+	"type": "helper",
+	"name" : "candasm/imageresizer",
+	"description" : "Basit resim düzenleyeci",
+	"authors" : [
+		{
+			"name" : "candaş minareci",
+			"email": "candasm@gmail.com"
+		}
+	],
+	"homepage" : "https://github.com/candasm/imageresizer"
+}
